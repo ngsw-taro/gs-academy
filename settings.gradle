@@ -1,1 +1,2 @@
 include ':echo'
+include ':echo-handson'

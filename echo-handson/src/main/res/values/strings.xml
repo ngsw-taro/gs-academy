@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GsAcademySampleApp</string>
+    <string name="submit">送信</string>
+    <string name="processing">処理中…</string>
+</resources>
