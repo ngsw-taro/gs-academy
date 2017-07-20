@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/t-nagasawa/Dev/git_repos/GsAcademy/json-validator/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/t-nagasawa/.android/build-cache/16a7c0fcce81d174f02afa733e93a9593f5262f8/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/t-nagasawa/Dev/git_repos/GsAcademy/json-validator/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/t-nagasawa/.android/build-cache/16a7c0fcce81d174f02afa733e93a9593f5262f8/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/t-nagasawa/Dev/git_repos/GsAcademy/json-validator/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/t-nagasawa/.android/build-cache/16a7c0fcce81d174f02afa733e93a9593f5262f8/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/t-nagasawa/Dev/git_repos/GsAcademy/json-validator/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/t-nagasawa/.android/build-cache/16a7c0fcce81d174f02afa733e93a9593f5262f8/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]
